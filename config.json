@@ -1,0 +1,16 @@
+{
+  "apiUrl": "https://তোমার-username.github.io/iptv-api/channels.json",
+  "bannerUrl": "https://তোমার-username.github.io/iptv-api/banners.json",
+  "announcementUrl": "https://তোমার-username.github.io/iptv-api/announcements.json",
+  "themeColor": "#E50914",
+  "accentColor": "#F5A623",
+  "maintenanceMode": false,
+  "maintenanceMessage": "",
+  "forceUpdateVersion": "0.0.0",
+  "forceUpdateUrl": "https://play.google.com/store/apps/details?id=com.streampro.iptv",
+  "rootBlockEnabled": false,
+  "adsConfig": {
+    "enabled": false,
+    "bannerId": ""
+  }
+}

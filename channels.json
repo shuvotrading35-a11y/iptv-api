@@ -1,0 +1,3136 @@
+[
+  {
+    "id": "bn_001",
+    "name": "TV9 Bangla",
+    "logo": "https://images.tv9bangla.com/wp-content/themes/tv9bangla/images/tv9-bangla-logo.svg",
+    "url": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8",
+    "group": "Bangla",
+    "tags": [
+      "Live"
+    ],
+    "language": "bn",
+    "country": "BD",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": true,
+    "order": 1
+  },
+  {
+    "id": "bn_002",
+    "name": "R Plus News",
+    "logo": "https://rplus.in/wp-content/uploads/2025/06/RPLUS_NEWS.png",
+    "url": "https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8",
+    "group": "Bangla",
+    "tags": [
+      "Live"
+    ],
+    "language": "bn",
+    "country": "BD",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": true,
+    "order": 2
+  },
+  {
+    "id": "bn_003",
+    "name": "News 24",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/News%2024.png",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8",
+    "group": "Bangla",
+    "tags": [
+      "Live"
+    ],
+    "language": "bn",
+    "country": "BD",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": true,
+    "order": 3
+  },
+  {
+    "id": "bn_004",
+    "name": "SOMOY NEWS",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/8/8e/Somoy_Television.svg",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8",
+    "group": "Bangla",
+    "tags": [
+      "Live"
+    ],
+    "language": "bn",
+    "country": "BD",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": true,
+    "order": 4
+  },
+  {
+    "id": "bn_005",
+    "name": "Jamuna TV",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jamuna%20TV.jpeg",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8",
+    "group": "Bangla",
+    "tags": [
+      "Live"
+    ],
+    "language": "bn",
+    "country": "BD",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": true,
+    "order": 5
+  },
+  {
+    "id": "bn_006",
+    "name": "Channel 24",
+    "logo": "https://yt3.googleusercontent.com/8Q8MCd6ypr2Hzbp60VE_stJPl063kQYfeTxdIQkAXRfhdzxByLl0sJYHsk43uTM4W_cOzwcbPQ=s160-c-k-c0x00ffffff-no-rj",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8",
+    "group": "Bangla",
+    "tags": [
+      "Live"
+    ],
+    "language": "bn",
+    "country": "BD",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": true,
+    "order": 6
+  },
+  {
+    "id": "bn_007",
+    "name": "ATN News",
+    "logo": "https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/4d/ATN_News_HD.png",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8",
+    "group": "Bangla",
+    "tags": [
+      "Live"
+    ],
+    "language": "bn",
+    "country": "BD",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": true,
+    "order": 7
+  },
+  {
+    "id": "bn_008",
+    "name": "Independent Television",
+    "logo": "https://static.wikia.nocookie.net/etv-gspn-bangla/images/b/bb/Independent_logo_2011.png",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8",
+    "group": "Bangla",
+    "tags": [
+      "Live"
+    ],
+    "language": "bn",
+    "country": "BD",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": true,
+    "order": 8
+  },
+  {
+    "id": "bn_009",
+    "name": "Kolkata Tv",
+    "logo": "https://a.jsrdn.com/hls/23215/kolkata-tv/logo_20250819_185012_70.png",
+    "url": "https://cdn.ottlive.co.in/kolkatatv/index.m3u8",
+    "group": "Bangla",
+    "tags": [
+      "Live"
+    ],
+    "language": "bn",
+    "country": "BD",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 9
+  },
+  {
+    "id": "bn_010",
+    "name": "Tribe TV",
+    "logo": "https://a.jsrdn.com/hls/23215/tribe-tv/logo_20250429_225821_70.png",
+    "url": "https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8",
+    "group": "Bangla",
+    "tags": [
+      "Live"
+    ],
+    "language": "bn",
+    "country": "BD",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 10
+  },
+  {
+    "id": "bn_011",
+    "name": "JAMUNA TV",
+    "logo": "https://www.freekaj.com/assets/images/stock/image/2024/01/14/65a43ac0d1ffc1705261760.jpg",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8",
+    "group": "Bangla",
+    "tags": [
+      "Live"
+    ],
+    "language": "bn",
+    "country": "BD",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 11
+  },
+  {
+    "id": "bn_012",
+    "name": "Ekattor TV",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/5/5d/Ekattor_TV_logo.png",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-video=1692000.m3u8",
+    "group": "Bangla",
+    "tags": [
+      "Live"
+    ],
+    "language": "bn",
+    "country": "BD",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 12
+  },
+  {
+    "id": "bn_013",
+    "name": "Bangla Jago TV",
+    "logo": "https://banglajagotv.com/wp-content/themes/BANGLAJAGOTV/images/logo.png",
+    "url": "http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8",
+    "group": "Bangla",
+    "tags": [
+      "Live"
+    ],
+    "language": "bn",
+    "country": "BD",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 13
+  },
+  {
+    "id": "bn_014",
+    "name": "Zee 24 Ghanta",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/b/bc/Zee_24_Ghanta_2025_Logo_2025.png",
+    "url": "https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8",
+    "group": "Bangla",
+    "tags": [
+      "Live"
+    ],
+    "language": "bn",
+    "country": "BD",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 14
+  },
+  {
+    "id": "bn_015",
+    "name": "Calcutta News",
+    "logo": "https://assets.calcuttatelevisionnetwork.in/cn.png",
+    "url": "https://akdnetwork.co.in/live/cnnew/index.m3u8",
+    "group": "Bangla",
+    "tags": [
+      "Live"
+    ],
+    "language": "bn",
+    "country": "BD",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 15
+  },
+  {
+    "id": "bn_016",
+    "name": "News18 Bangla",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/8/85/News18_Bangla1.svg/",
+    "url": "https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/ts-eu-w1-n2/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8",
+    "group": "Bangla",
+    "tags": [
+      "Live"
+    ],
+    "language": "bn",
+    "country": "BD",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 16
+  },
+  {
+    "id": "bn_017",
+    "name": "Republic Bangla",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/9/93/R.Bangla_logo_with_tagline.jpg",
+    "url": "https://vg-republictvyupp.akamaized.net/ptnr-yuppt/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-613605/93d674ab-f7a0-404e-88b2-b4f163373dbe/0.m3u8",
+    "group": "Bangla",
+    "tags": [
+      "Live"
+    ],
+    "language": "bn",
+    "country": "BD",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 17
+  },
+  {
+    "id": "bn_018",
+    "name": "High News",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/c/c8/High-news.jpg",
+    "url": "http://highmedia.livebox.co.in:80/HIGHNEWShls/LIVE.m3u8",
+    "group": "Bangla",
+    "tags": [
+      "Live"
+    ],
+    "language": "bn",
+    "country": "BD",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 18
+  },
+  {
+    "id": "bn_019",
+    "name": "ABP Ananda",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/a/a2/Abp-ananda.png",
+    "url": "https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8",
+    "group": "Bangla",
+    "tags": [
+      "Live"
+    ],
+    "language": "bn",
+    "country": "BD",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 19
+  },
+  {
+    "id": "bn_020",
+    "name": "TBN 24 USA",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TBN24.png",
+    "url": "http://cdn01.palki.tv/live/TBN24-M/index.m3u8",
+    "group": "Bangla",
+    "tags": [
+      "Live"
+    ],
+    "language": "bn",
+    "country": "BD",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 20
+  },
+  {
+    "id": "bn_021",
+    "name": "Somoy TV",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702.m3u8",
+    "group": "Bangla",
+    "tags": [
+      "Live"
+    ],
+    "language": "bn",
+    "country": "BD",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 21
+  },
+  {
+    "id": "bn_022",
+    "name": "Independent TV",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Independent%20Television.png",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704.m3u8",
+    "group": "Bangla",
+    "tags": [
+      "Live"
+    ],
+    "language": "bn",
+    "country": "BD",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 22
+  },
+  {
+    "id": "bn_023",
+    "name": "Ekattor TV",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekattor%20TV.png",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705.m3u8",
+    "group": "Bangla",
+    "tags": [
+      "Live"
+    ],
+    "language": "bn",
+    "country": "BD",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 23
+  },
+  {
+    "id": "bn_024",
+    "name": "ATN News",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20News.png",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/1706.m3u8",
+    "group": "Bangla",
+    "tags": [
+      "Live"
+    ],
+    "language": "bn",
+    "country": "BD",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 24
+  },
+  {
+    "id": "bn_025",
+    "name": "Star News",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/Star%20News.jpg",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1701.m3u8",
+    "group": "Bangla",
+    "tags": [
+      "Live"
+    ],
+    "language": "bn",
+    "country": "BD",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 25
+  },
+  {
+    "id": "bn_026",
+    "name": "Channel 24",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/channel%2024.png",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703.m3u8",
+    "group": "Bangla",
+    "tags": [
+      "Live"
+    ],
+    "language": "bn",
+    "country": "BD",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 26
+  },
+  {
+    "id": "bn_027",
+    "name": "DBC News",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DBC%20News.png",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/1728.m3u8",
+    "group": "Bangla",
+    "tags": [
+      "Live"
+    ],
+    "language": "bn",
+    "country": "BD",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 27
+  },
+  {
+    "id": "bn_028",
+    "name": "Channel 1 News 4K",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/Channel%201.png",
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8",
+    "group": "Bangla",
+    "tags": [
+      "Live",
+      "4K"
+    ],
+    "language": "bn",
+    "country": "BD",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 28
+  },
+  {
+    "id": "bn_029",
+    "name": "SANGEET BANGLA",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/d/da/Sangeet_Bangla_logo_2006.png",
+    "url": "https://cdn-4.pishow.tv/live/1143/master.m3u8",
+    "group": "Bangla",
+    "tags": [
+      "Live"
+    ],
+    "language": "bn",
+    "country": "BD",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 29
+  },
+  {
+    "id": "bn_030",
+    "name": "DD Bangla",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/c/ca/Dd_2019.webp",
+    "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8",
+    "group": "Bangla",
+    "tags": [
+      "Live"
+    ],
+    "language": "bn",
+    "country": "BD",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 30
+  },
+  {
+    "id": "bn_031",
+    "name": "Khushboo Bangla",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/e/e1/Khushboo_Bangla_logo_2017.png",
+    "url": "https://cdn-4.pishow.tv/live/1473/master.m3u8",
+    "group": "Bangla",
+    "tags": [
+      "Live"
+    ],
+    "language": "bn",
+    "country": "BD",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 31
+  },
+  {
+    "id": "bn_032",
+    "name": "Green TV",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Green%20TV.png",
+    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8",
+    "group": "Bangla",
+    "tags": [
+      "Live"
+    ],
+    "language": "bn",
+    "country": "BD",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 32
+  },
+  {
+    "id": "bn_033",
+    "name": "ATN BANGLA",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/2/2e/ATN_Bangla.svg",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8",
+    "group": "Bangla",
+    "tags": [
+      "Live"
+    ],
+    "language": "bn",
+    "country": "BD",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 33
+  },
+  {
+    "id": "bn_034",
+    "name": "CHANNEL I",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/9/9d/Channel_i_HD_logo_2021.png",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8",
+    "group": "Bangla",
+    "tags": [
+      "Live"
+    ],
+    "language": "bn",
+    "country": "BD",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 34
+  },
+  {
+    "id": "bn_035",
+    "name": "BANGLA VISION",
+    "logo": "https://www.bvnews24.com/media/common/newbvlogo.png",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8",
+    "group": "Bangla",
+    "tags": [
+      "Live"
+    ],
+    "language": "bn",
+    "country": "BD",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 35
+  },
+  {
+    "id": "bn_036",
+    "name": "BTV HD",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/1/12/BTV_HD_Logo.svg",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8",
+    "group": "Bangla",
+    "tags": [
+      "Live",
+      "HD"
+    ],
+    "language": "bn",
+    "country": "BD",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 36
+  },
+  {
+    "id": "bn_037",
+    "name": "Deshi TV",
+    "logo": "https://www.jagobd.com/wp-content/uploads/2024/09/desitv.png",
+    "url": "https://deshitv.deshitv24.net/live/myStream/playlist.m3u8",
+    "group": "Bangla",
+    "tags": [
+      "Live"
+    ],
+    "language": "bn",
+    "country": "BD",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 37
+  },
+  {
+    "id": "bn_038",
+    "name": "ATN Bangla UK",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png",
+    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8",
+    "group": "Bangla",
+    "tags": [
+      "Live"
+    ],
+    "language": "bn",
+    "country": "BD",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 38
+  },
+  {
+    "id": "bn_039",
+    "name": "Green TV",
+    "logo": "https://greentvbangla.com/wp-content/uploads/2023/03/lazy_tv0.jpg.webp",
+    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8",
+    "group": "Bangla",
+    "tags": [
+      "Live"
+    ],
+    "language": "bn",
+    "country": "BD",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 39
+  },
+  {
+    "id": "bn_040",
+    "name": "Movie Bangla TV",
+    "logo": "https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo-2.png",
+    "url": "http://alvetv.com/moviebanglatv/8080/index.m3u8",
+    "group": "Bangla",
+    "tags": [
+      "Live"
+    ],
+    "language": "bn",
+    "country": "BD",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 40
+  },
+  {
+    "id": "bn_041",
+    "name": "Orange Bangla TV",
+    "logo": "https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/e5/Orange_Bangla_logo_%282018%29.png",
+    "url": "https://cdn-4.pishow.tv/live/1499/master.m3u8",
+    "group": "Bangla",
+    "tags": [
+      "Live"
+    ],
+    "language": "bn",
+    "country": "BD",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 41
+  },
+  {
+    "id": "bn_042",
+    "name": "Ekushay TV (Local)",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png",
+    "url": "http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8",
+    "group": "Bangla",
+    "tags": [
+      "Live"
+    ],
+    "language": "bn",
+    "country": "BD",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 42
+  },
+  {
+    "id": "bn_043",
+    "name": "Ekushay TV",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png",
+    "url": "https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8",
+    "group": "Bangla",
+    "tags": [
+      "Live"
+    ],
+    "language": "bn",
+    "country": "BD",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 43
+  },
+  {
+    "id": "bn_044",
+    "name": "DEEPTO TV HD",
+    "logo": "https://jcwsw2vt33.gpcdn.net/uploads/images/2022/07/25/logos_1384ea456744d5914ba331fa72df78c8_goplay_deepto_logo_final_white.svg",
+    "url": "https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8",
+    "group": "Bangla",
+    "tags": [
+      "Live",
+      "HD"
+    ],
+    "language": "bn",
+    "country": "BD",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 44
+  },
+  {
+    "id": "bn_045",
+    "name": "NTV HD",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/e/e1/NTV_Bangla.svg",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=1692000.m3u8",
+    "group": "Bangla",
+    "tags": [
+      "Live",
+      "HD"
+    ],
+    "language": "bn",
+    "country": "BD",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 45
+  },
+  {
+    "id": "bn_046",
+    "name": "Enter10 Bangla HD",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg",
+    "url": "https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8",
+    "group": "Bangla",
+    "tags": [
+      "Live",
+      "HD"
+    ],
+    "language": "bn",
+    "country": "BD",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 46
+  },
+  {
+    "id": "bn_047",
+    "name": "Colors Bangla HD (Ads only)",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/3/3e/Colors_Bangla_HD.jpg",
+    "url": "https://iptvcable.netlify.app/Altogether-007/Kolkata/ColorsBanglaHD.m3u8",
+    "group": "Bangla",
+    "tags": [
+      "Live",
+      "HD"
+    ],
+    "language": "bn",
+    "country": "BD",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 47
+  },
+  {
+    "id": "bn_048",
+    "name": "Bangla+ HD",
+    "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEir8DIISD_3Ay4E2H__HTS4VFP7VXskYcIgkufU45epPzAFDKObL2D_p6mOal9B0RJpyaiA3feJuyaL8yvd0x-2nykRjc1pZPwT_aAGwmwFb4bEJf8oVDgty5NF30gzWlwHvh2P2c49pP2P8383ili_yboK1uSyqELcZygHTpSwru1VeK0mMwceugT5QLw/s1600/NadimRazaTVLogoDesign%282%29_copy_900x900_1.png",
+    "url": "https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8",
+    "group": "Bangla",
+    "tags": [
+      "Live",
+      "HD"
+    ],
+    "language": "bn",
+    "country": "BD",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 48
+  },
+  {
+    "id": "bn_049",
+    "name": "R Plus Gold",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/c/c7/RPlus_Gold_logo_%282013%29.png",
+    "url": "https://thelegitpro.in/pntv/rplusnews24x7/tracks-v1a1/mono.m3u8",
+    "group": "Bangla",
+    "tags": [
+      "Live"
+    ],
+    "language": "bn",
+    "country": "BD",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 49
+  },
+  {
+    "id": "bn_050",
+    "name": "NTV TV UK",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/e/e1/NTV_Bangla.svg",
+    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8",
+    "group": "Bangla",
+    "tags": [
+      "Live"
+    ],
+    "language": "bn",
+    "country": "BD",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 50
+  },
+  {
+    "id": "bn_051",
+    "name": "STAR JALSHA HD (Ads Only)",
+    "logo": "http://openboxv8s.com/india/star_jalsha.png",
+    "url": "https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8",
+    "group": "Bangla",
+    "tags": [
+      "Live",
+      "HD"
+    ],
+    "language": "bn",
+    "country": "BD",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 51
+  },
+  {
+    "id": "bn_052",
+    "name": "Maasranga TV",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Maasranga%20TV.png",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722.m3u8",
+    "group": "Bangla",
+    "tags": [
+      "Live"
+    ],
+    "language": "bn",
+    "country": "BD",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 52
+  },
+  {
+    "id": "bn_053",
+    "name": "NTV",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716.m3u8",
+    "group": "Bangla",
+    "tags": [
+      "Live"
+    ],
+    "language": "bn",
+    "country": "BD",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 53
+  },
+  {
+    "id": "bn_054",
+    "name": "SATV",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/1720.m3u8",
+    "group": "Bangla",
+    "tags": [
+      "Live"
+    ],
+    "language": "bn",
+    "country": "BD",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 54
+  },
+  {
+    "id": "bn_055",
+    "name": "Deepto TV",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711.m3u8",
+    "group": "Bangla",
+    "tags": [
+      "Live"
+    ],
+    "language": "bn",
+    "country": "BD",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 55
+  },
+  {
+    "id": "bn_056",
+    "name": "Bangla TV Europe",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png",
+    "url": "https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8",
+    "group": "Bangla",
+    "tags": [
+      "Live"
+    ],
+    "language": "bn",
+    "country": "BD",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 56
+  },
+  {
+    "id": "bn_057",
+    "name": "Channel 9",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%209.png",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729.m3u8",
+    "group": "Bangla",
+    "tags": [
+      "Live"
+    ],
+    "language": "bn",
+    "country": "BD",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 57
+  },
+  {
+    "id": "bn_058",
+    "name": "Desh TV",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Desh%20TV.png",
+    "url": "https://bozztv.com/rongo/rongo-DeshTV/tracks-v1a1/mono.m3u8",
+    "group": "Bangla",
+    "tags": [
+      "Live"
+    ],
+    "language": "bn",
+    "country": "BD",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 58
+  },
+  {
+    "id": "bn_059",
+    "name": "Nexus Television",
+    "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitq58axdbCfGNK8qnGYe7NLyrBUvXyrKC6Ecv8Tz1lAm92MameWti_mim2e6PRquP9dhudYb7k0CqmMmVqrFGVXYV5xzbaNoi07uK3C-Xqz78BNSstr0Q0tRBsrj1V2GXRnNg_jL_iGObQ3FsRUDOBL7AQBsU-85f5gTslDC7oJPHF6z_Rkv9WgIl4Nw/s600/Nur_20251226_221102_0000.png",
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/nexustv.stream/tracks-v1a1/mono.m3u8",
+    "group": "Bangla",
+    "tags": [
+      "Live"
+    ],
+    "language": "bn",
+    "country": "BD",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 59
+  },
+  {
+    "id": "bn_060",
+    "name": "Global TV",
+    "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXMpIa-Ckqus5ll5uOh9vNZc7_ekC8gzp47_m9tSLqe3KbPGpr2kWhELxLHj-d25HSOh_ys__QnM1ccCK7x_1jeO8KWWj6sg6cZP3u0hJD9QS9nEdWrCCF9qU21nekj758dLm9yaBF9Qw8jxVtY5uuANki_WjX9kEui7iBGf9bpdzCLW1kuodOUTJ5lA/s600/Nur_20251227_140413_0000.png",
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/tracks-v1a1/mono.m3u8",
+    "group": "Bangla",
+    "tags": [
+      "Live"
+    ],
+    "language": "bn",
+    "country": "BD",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 60
+  },
+  {
+    "id": "bn_061",
+    "name": "Asian TV",
+    "logo": "https://www.jagobd.com/wp-content/uploads/2015/12/asiantv.jpg",
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/tracks-v1a1/mono.m3u8",
+    "group": "Bangla",
+    "tags": [
+      "Live"
+    ],
+    "language": "bn",
+    "country": "BD",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 61
+  },
+  {
+    "id": "bn_062",
+    "name": "Desh TV",
+    "logo": "https://i.postimg.cc/wvBbd56q/Desh-TV.jpg",
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshtv.stream/tracks-v1a1/mono.m3u8",
+    "group": "Bangla",
+    "tags": [
+      "Live"
+    ],
+    "language": "bn",
+    "country": "BD",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 62
+  },
+  {
+    "id": "bn_063",
+    "name": "Ekushey TV",
+    "logo": "https://i.postimg.cc/L6R2F0jj/20250529_105209.png",
+    "url": "https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8",
+    "group": "Bangla",
+    "tags": [
+      "Live"
+    ],
+    "language": "bn",
+    "country": "BD",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 63
+  },
+  {
+    "id": "bn_064",
+    "name": "Mohona TV",
+    "logo": "https://i.imgur.com/ENyPcL0.png",
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8",
+    "group": "Bangla",
+    "tags": [
+      "Live"
+    ],
+    "language": "bn",
+    "country": "BD",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 64
+  },
+  {
+    "id": "bn_065",
+    "name": "Movie Bangla",
+    "logo": "https://i.postimg.cc/wBN1BtXk/20251127_095813.png",
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/moviebanglalink2.stream/tracks-v1a1/mono.m3u8",
+    "group": "Bangla",
+    "tags": [
+      "Live"
+    ],
+    "language": "bn",
+    "country": "BD",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 65
+  },
+  {
+    "id": "sp_001",
+    "name": "CAZE TV",
+    "logo": "https://images.seeklogo.com/logo-png/61/1/cazetv-logo-png_seeklogo-619708.png",
+    "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8",
+    "group": "Sports",
+    "tags": [
+      "Live"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": true,
+    "order": 66
+  },
+  {
+    "id": "sp_002",
+    "name": "CAZE TV (1080p)",
+    "logo": "https://images.seeklogo.com/logo-png/61/1/cazetv-logo-png_seeklogo-619708.png",
+    "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8",
+    "group": "Sports",
+    "tags": [
+      "Live",
+      "HD"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": true,
+    "order": 67
+  },
+  {
+    "id": "sp_003",
+    "name": "Goal TV",
+    "logo": "https://media.unreel.me/prod/freelivesports/logo/3b9ff291-5825-4cd3-b8f0-5d03a3f1e3c1",
+    "url": "https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8",
+    "group": "Sports",
+    "tags": [
+      "Live"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": true,
+    "order": 68
+  },
+  {
+    "id": "sp_004",
+    "name": "DD Sports",
+    "logo": "https://s3.aynaott.com/storage/188500190395c4de0e506d518925dcc4",
+    "url": "https://cdn-6.pishow.tv/live/13/master.m3u8",
+    "group": "Sports",
+    "tags": [
+      "Live"
+    ],
+    "language": "en",
+    "country": "IN",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": true,
+    "order": 69
+  },
+  {
+    "id": "sp_005",
+    "name": "KTV Sport Plus",
+    "logo": "https://s3.aynaott.com/storage/b54495ee3cdd53ddaa19d1f98120f488",
+    "url": "https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8",
+    "group": "Sports",
+    "tags": [
+      "Live"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": true,
+    "order": 70
+  },
+  {
+    "id": "sp_006",
+    "name": "Oman Sports TV",
+    "logo": "https://s3.aynaott.com/storage/33f87783637fc95fdb8837ba9344c9e9",
+    "url": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8",
+    "group": "Sports",
+    "tags": [
+      "Live"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 71
+  },
+  {
+    "id": "sp_007",
+    "name": "Bleav Football",
+    "logo": "https://a.jsrdn.com/hls/23091/bleav-football/logo_20231219_184637_64.png",
+    "url": "https://linear-493.frequency.stream/dist/glewedtv/493/hls/master/playlist.m3u8",
+    "group": "Sports",
+    "tags": [
+      "Live"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 72
+  },
+  {
+    "id": "sp_008",
+    "name": "NBC Sports",
+    "logo": "https://s3.aynaott.com/storage/0a241a80bf51d2c3b3722531706ce086",
+    "url": "https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8",
+    "group": "Sports",
+    "tags": [
+      "Live"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 73
+  },
+  {
+    "id": "sp_009",
+    "name": "speed sports 1",
+    "logo": "https://s3.aynaott.com/storage/06f5b193bfa4d31310ee934eb3c2222e",
+    "url": "https://linear-599.frequency.stream/dist/stirr/599/hls/master/playlist.m3u8",
+    "group": "Sports",
+    "tags": [
+      "Live"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 74
+  },
+  {
+    "id": "sp_010",
+    "name": "Bahrain Sports 1",
+    "logo": "https://s3.aynaott.com/storage/f55bea3263be1af187fe1122e4f44142",
+    "url": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8",
+    "group": "Sports",
+    "tags": [
+      "Live"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 75
+  },
+  {
+    "id": "sp_011",
+    "name": "MORE THEN SPORTS TV",
+    "logo": "https://s3.aynaott.com/storage/39174e32d4f8d29a95c881637fe1ecdb",
+    "url": "https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8",
+    "group": "Sports",
+    "tags": [
+      "Live"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 76
+  },
+  {
+    "id": "sp_012",
+    "name": "SPORTS FIRST TV",
+    "logo": "https://s3.aynaott.com/storage/748d28752dcf95740561f1ac39e15fc3",
+    "url": "https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409.m3u8",
+    "group": "Sports",
+    "tags": [
+      "Live"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 77
+  },
+  {
+    "id": "sp_013",
+    "name": "Xtrem Sports",
+    "logo": "https://s3.aynaott.com/storage/e1749cf3040f11c63e722c941f213927",
+    "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8",
+    "group": "Sports",
+    "tags": [
+      "Live"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 78
+  },
+  {
+    "id": "sp_014",
+    "name": "WOF 1",
+    "logo": "https://s3.aynaott.com/storage/1a580ee2636a0c4761e623bc131ba7a6",
+    "url": "https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8",
+    "group": "Sports",
+    "tags": [
+      "Live"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 79
+  },
+  {
+    "id": "sp_015",
+    "name": "Fox Cricket 501",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png",
+    "url": "http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19146/index.m3u8",
+    "group": "Sports",
+    "tags": [
+      "Live"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 80
+  },
+  {
+    "id": "sp_016",
+    "name": "MTRSPT1",
+    "logo": "https://a.jsrdn.com/hls/23099/mtrspt1/logo_20250122_232635_70.png",
+    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8",
+    "group": "Sports",
+    "tags": [
+      "Live"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 81
+  },
+  {
+    "id": "sp_017",
+    "name": "DD Sports",
+    "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvJ1HtheTbTZjOoXTO9KRK1fIhh1uXhyvSckbf05J7yIcdT4ZucX1fvfjnyiv9QK-m0pBK6MoY6KhcVPQpsRSXdgBFU612nmbKpY864gsoMvMaCyu_fOdNVbx6ADMbz2dftZ7-0Arzx81kC8nqbeduSEsquwrPpzNGm2wZw6rXHe79vlF7DokCavubWA/s600/Nur_20251107_160202_0000.png",
+    "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8",
+    "group": "Sports",
+    "tags": [
+      "Live"
+    ],
+    "language": "en",
+    "country": "IN",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 82
+  },
+  {
+    "id": "sp_018",
+    "name": "FIGHTER TV",
+    "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNTVL_Em_EdwVB2BrdBsyD6vxWv3VoEcBlDLj2qpE_jdxCDlIAqp07_ToS5ZFAB2ThnA04BYdC9T7pgwPy5HWX8IwL74oCwsNXdVANpHq7x98tgvaEBCGMkYBQqAUfj5W9un5H8BckX7TgB5pVV3g7kGMRc_vLGyY5XfmsLtrEEmgJJ5-q5eNqBZp8qA/s1080/1000059174.png",
+    "url": "https://nomawnoijl.gpcdn.net/akash/fighter/chunks.m3u8",
+    "group": "Sports",
+    "tags": [
+      "Live"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 83
+  },
+  {
+    "id": "sp_019",
+    "name": "UFC TV",
+    "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpk7qcLQpJwBYzXGY25LdrndzWRDs3tgwp5rY0W-pkxJQ9UVDcWvE88Ng6AGWlHpHNhjQrb28lJ2r4V_BW1fVkLySo3sB1nzTwt_LuRQ9cYGim_FInDnyZWBuULFUFI_Vr9YdIpTs7KvDsVb0CEy_XYJCmUXB4Jpo1uPnXTjh09EqP_sJLqgb6Dwf1uA/s1080/1000060530.png",
+    "url": "https://linear-893.frequency.stream/mt/plex/893/hls/master/playlist_640x360.m3u8",
+    "group": "Sports",
+    "tags": [
+      "Live"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 84
+  },
+  {
+    "id": "sp_020",
+    "name": "--Live(FOOTBALL)--",
+    "logo": "",
+    "url": "https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8",
+    "group": "Sports",
+    "tags": [
+      "Live"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 85
+  },
+  {
+    "id": "sp_021",
+    "name": "Sports Legends",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770377900139.png",
+    "url": "https://nomawnoijl.gpcdn.net/akash/sportslegends/playlist.m3u8",
+    "group": "Sports",
+    "tags": [
+      "Live"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 86
+  },
+  {
+    "id": "sp_022",
+    "name": "Flash Guys HD",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378074527.png",
+    "url": "https://nomawnoijl.gpcdn.net/akash/flashguys/playlist.m3u8",
+    "group": "Sports",
+    "tags": [
+      "Live",
+      "HD"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 87
+  },
+  {
+    "id": "sp_023",
+    "name": "Sports Range",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380601958.png",
+    "url": "https://nomawnoijl.gpcdn.net/akash/sportrange/playlist.m3u8",
+    "group": "Sports",
+    "tags": [
+      "Live"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 88
+  },
+  {
+    "id": "sp_024",
+    "name": "Thunder Er",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380791303.png",
+    "url": "https://nomawnoijl.gpcdn.net/akash/thunder/playlist.m3u8",
+    "group": "Sports",
+    "tags": [
+      "Live"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 89
+  },
+  {
+    "id": "sp_025",
+    "name": "Fighters",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380942670.png",
+    "url": "https://nomawnoijl.gpcdn.net/akash/fighter/playlist.m3u8",
+    "group": "Sports",
+    "tags": [
+      "Live"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 90
+  },
+  {
+    "id": "sp_026",
+    "name": "Crazy Ex",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1778085745609.png",
+    "url": "https://nomawnoijl.gpcdn.net/akash/crazy_ex/playlist.m3u8",
+    "group": "Sports",
+    "tags": [
+      "Live"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 91
+  },
+  {
+    "id": "sp_027",
+    "name": "Redbull TV",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-I_gjgaJYlqDQGjAj96xh8S-5GZe_CZQK3w&usqp=CAU",
+    "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8",
+    "group": "Sports",
+    "tags": [
+      "Live"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 92
+  },
+  {
+    "id": "sp_028",
+    "name": "30A Golf Kingdom (720p)",
+    "logo": "https://golfkingdom.net/wp-content/uploads/2022/04/golf-kingdom-st.jpg",
+    "url": "https://30a-tv.com/feeds/vidaa/golf.m3u8",
+    "group": "Sports",
+    "tags": [
+      "Live",
+      "HD"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 93
+  },
+  {
+    "id": "sp_029",
+    "name": "ACI Sport TV (1080p)",
+    "logo": "https://i.imgur.com/U8cHMOt.png",
+    "url": "https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8",
+    "group": "Sports",
+    "tags": [
+      "Live",
+      "HD"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 94
+  },
+  {
+    "id": "sp_030",
+    "name": "ACCDN (1080p)",
+    "logo": "https://i.imgur.com/V6Kaqha.png",
+    "url": "https://raycom-accdn-firetv.amagi.tv/playlist.m3u8",
+    "group": "Sports",
+    "tags": [
+      "Live",
+      "HD"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 95
+  },
+  {
+    "id": "sp_031",
+    "name": "Al Iraqia Sport (720p)",
+    "logo": "https://i.imgur.com/DrrlxTO.png",
+    "url": "https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8",
+    "group": "Sports",
+    "tags": [
+      "Live",
+      "HD"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 96
+  },
+  {
+    "id": "sp_032",
+    "name": "Alkass One (1080p)",
+    "logo": "https://i.imgur.com/10mmlha.png",
+    "url": "https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8",
+    "group": "Sports",
+    "tags": [
+      "Live",
+      "HD"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 97
+  },
+  {
+    "id": "sp_033",
+    "name": "Alkass Four (1080p)",
+    "logo": "https://i.imgur.com/iDL65Wu.png",
+    "url": "https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8",
+    "group": "Sports",
+    "tags": [
+      "Live",
+      "HD"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 98
+  },
+  {
+    "id": "sp_034",
+    "name": "Alkass SHOOF 2 (1080p)",
+    "logo": "https://shoof.alkass.net/assets/images/shoof2.png",
+    "url": "https://liveeu-gcp.alkassdigital.net/shooflive2/main.m3u8",
+    "group": "Sports",
+    "tags": [
+      "Live",
+      "HD"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 99
+  },
+  {
+    "id": "sp_035",
+    "name": "Alkass Six (1080p)",
+    "logo": "https://i.imgur.com/CrPSPSC.png",
+    "url": "https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8",
+    "group": "Sports",
+    "tags": [
+      "Live",
+      "HD"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 100
+  },
+  {
+    "id": "sp_036",
+    "name": "Alkass SHOOF (1080p)",
+    "logo": "https://shoof.alkass.net/assets/images/shoof.png",
+    "url": "https://liveeu-gcp.alkassdigital.net/shooflive/main.m3u8",
+    "group": "Sports",
+    "tags": [
+      "Live",
+      "HD"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 101
+  },
+  {
+    "id": "sp_037",
+    "name": "Alkass Three (1080p)",
+    "logo": "https://i.imgur.com/d57BdFh.png",
+    "url": "https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8",
+    "group": "Sports",
+    "tags": [
+      "Live",
+      "HD"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 102
+  },
+  {
+    "id": "sp_038",
+    "name": "Alkass Two (1080p)",
+    "logo": "https://i.imgur.com/8w61kFX.png",
+    "url": "https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8",
+    "group": "Sports",
+    "tags": [
+      "Live",
+      "HD"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 103
+  },
+  {
+    "id": "sp_039",
+    "name": "ATG Live (720p)",
+    "logo": "https://i.imgur.com/bPWFXkL.png",
+    "url": "https://kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-HL/atg-kanal-15-02a-rr.m3u8",
+    "group": "Sports",
+    "tags": [
+      "Live",
+      "HD"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 104
+  },
+  {
+    "id": "sp_040",
+    "name": "Bahrain Sports 2 (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/ZkuZmIo.png",
+    "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8",
+    "group": "Sports",
+    "tags": [
+      "Live",
+      "HD"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 105
+  },
+  {
+    "id": "sp_041",
+    "name": "BEK TV Sports West",
+    "logo": "https://appcmsprod.viewlift.com/eae092c0-d256-11ed-9371-6da166a39e0f/images/bek-tv-plus-web-logo-noc-1280X728.png",
+    "url": "https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8",
+    "group": "Sports",
+    "tags": [
+      "Live"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 106
+  },
+  {
+    "id": "sp_042",
+    "name": "beIN SPORTS XTRA (1080p)",
+    "logo": "https://i.ibb.co/HT49GPmB/XTRA-2.png",
+    "url": "https://bein-xtra-bein.amagi.tv/playlist.m3u8",
+    "group": "Sports",
+    "tags": [
+      "Live",
+      "HD"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 107
+  },
+  {
+    "id": "sp_043",
+    "name": "beIN Sports XTRA en Espanol (1080p)",
+    "logo": "https://i.imgur.com/V562tpO.png",
+    "url": "https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8",
+    "group": "Sports",
+    "tags": [
+      "Live",
+      "HD"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 108
+  },
+  {
+    "id": "sp_044",
+    "name": "ColimdoT TV (720p)",
+    "logo": "https://i.imgur.com/ZeUgLCa.png",
+    "url": "https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8",
+    "group": "Sports",
+    "tags": [
+      "Live",
+      "HD"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 109
+  },
+  {
+    "id": "sp_045",
+    "name": "Cowboy TV",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/e/e6/Cowboy_Channel_logo.png",
+    "url": "https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8",
+    "group": "Sports",
+    "tags": [
+      "Live"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 110
+  },
+  {
+    "id": "sp_046",
+    "name": "Cricket Gold (1080p)",
+    "logo": "https://resources.cricket-australia.pulselive.com/cricket-australia/photo/2025/07/25/836eddae-4329-4542-ad17-dcd37e9d951a/Cricket-Gold-1920x1080_noBG.png",
+    "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8",
+    "group": "Sports",
+    "tags": [
+      "Live",
+      "HD"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 111
+  },
+  {
+    "id": "sp_047",
+    "name": "---Live(DD Sports)---",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/64/DD_Sports_new_logo.jpg",
+    "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8",
+    "group": "Sports",
+    "tags": [
+      "Live"
+    ],
+    "language": "en",
+    "country": "IN",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 112
+  },
+  {
+    "id": "sp_048",
+    "name": "DAZN Combat (1080p)",
+    "logo": "https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png",
+    "url": "https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8",
+    "group": "Sports",
+    "tags": [
+      "Live",
+      "HD"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 113
+  },
+  {
+    "id": "sp_049",
+    "name": "DraftKings Network (1080p)",
+    "logo": "https://i.imgur.com/SFYhgrt.png",
+    "url": "https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-4530-a277-65ae3a1720c8-zype/live.m3u8",
+    "group": "Sports",
+    "tags": [
+      "Live",
+      "HD"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 114
+  },
+  {
+    "id": "sp_050",
+    "name": "Equidia (1080p)",
+    "logo": "https://i.imgur.com/QPpbRcZ.png",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8",
+    "group": "Sports",
+    "tags": [
+      "Live",
+      "HD"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 115
+  },
+  {
+    "id": "sp_051",
+    "name": "ESPN8 The Ocho (1080p)",
+    "logo": "https://images.fubo.tv/channel-config-ui/station-logos/on-dark/espn_8_the_ocho_bw.png",
+    "url": "https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8",
+    "group": "Sports",
+    "tags": [
+      "Live",
+      "HD"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 116
+  },
+  {
+    "id": "sp_052",
+    "name": "FB TV",
+    "logo": "https://i.imgur.com/qBVqtYd.png",
+    "url": "http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8",
+    "group": "Sports",
+    "tags": [
+      "Live"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 117
+  },
+  {
+    "id": "sp_053",
+    "name": "FIFA+ (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png",
+    "url": "https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8",
+    "group": "Sports",
+    "tags": [
+      "Live",
+      "HD"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 118
+  },
+  {
+    "id": "sp_054",
+    "name": "FIFA+ French (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png",
+    "url": "https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8",
+    "group": "Sports",
+    "tags": [
+      "Live",
+      "HD"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 119
+  },
+  {
+    "id": "sp_055",
+    "name": "FIFA+ German (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png",
+    "url": "https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8",
+    "group": "Sports",
+    "tags": [
+      "Live",
+      "HD"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 120
+  },
+  {
+    "id": "sp_056",
+    "name": "FIFA+ United States (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png",
+    "url": "https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8",
+    "group": "Sports",
+    "tags": [
+      "Live",
+      "HD"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 121
+  },
+  {
+    "id": "sp_057",
+    "name": "FIFA+ Portuguese (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png",
+    "url": "https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8",
+    "group": "Sports",
+    "tags": [
+      "Live",
+      "HD"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 122
+  },
+  {
+    "id": "sp_058",
+    "name": "FIFA+ Italy (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png",
+    "url": "https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8",
+    "group": "Sports",
+    "tags": [
+      "Live",
+      "HD"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 123
+  },
+  {
+    "id": "sp_059",
+    "name": "FIFA+ Women (720p)",
+    "logo": "https://i.imgur.com/xy9ZxVO.png",
+    "url": "https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8",
+    "group": "Sports",
+    "tags": [
+      "Live",
+      "HD"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 124
+  },
+  {
+    "id": "sp_060",
+    "name": "FIFA+ Hispanic America (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png",
+    "url": "https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8",
+    "group": "Sports",
+    "tags": [
+      "Live",
+      "HD"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 125
+  },
+  {
+    "id": "sp_061",
+    "name": "FIFA+ Spain (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png",
+    "url": "https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8",
+    "group": "Sports",
+    "tags": [
+      "Live",
+      "HD"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 126
+  },
+  {
+    "id": "sp_062",
+    "name": "FITE 24/7 (1080p)",
+    "logo": "https://i.imgur.com/ESV6qgH.png",
+    "url": "https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8",
+    "group": "Sports",
+    "tags": [
+      "Live",
+      "HD"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 127
+  },
+  {
+    "id": "sp_063",
+    "name": "FloHockey 24/7 (1080p)",
+    "logo": "https://images.fubo.tv/channel-config-ui/station-logos/on-dark/flohockey-white.png",
+    "url": "https://amg02278-amg02278c2-flosports-worldwide-9916.playouts.now.amagi.tv/playlist.m3u8",
+    "group": "Sports",
+    "tags": [
+      "Live",
+      "HD"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 128
+  },
+  {
+    "id": "sp_064",
+    "name": "FloRacing 24/7 (1080p)",
+    "logo": "https://images.fubo.tv/channel-config-ui/station-logos/on-dark/floracing-white.png",
+    "url": "https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8",
+    "group": "Sports",
+    "tags": [
+      "Live",
+      "HD"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 129
+  },
+  {
+    "id": "sp_065",
+    "name": "FTF Sports (720p)",
+    "logo": "https://i.imgur.com/yvUjOI3.png",
+    "url": "https://1657061170.rsc.cdn77.org/HLS/FTF-LINEAR.m3u8",
+    "group": "Sports",
+    "tags": [
+      "Live",
+      "HD"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 130
+  },
+  {
+    "id": "sp_066",
+    "name": "Fuel TV (1080p)",
+    "logo": "https://i.imgur.com/I8mviBy.png",
+    "url": "https://amg01074-fueltv-fueltvau-samsungau-g09kq.amagi.tv/playlist/amg01074-fueltv-fueltvau-samsungau/playlist.m3u8",
+    "group": "Sports",
+    "tags": [
+      "Live",
+      "HD"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 131
+  },
+  {
+    "id": "sp_067",
+    "name": "fubo Sports Network (1080p)",
+    "logo": "https://i.imgur.com/qFNRJLb.png",
+    "url": "https://dnf08l6u6uxnz.cloudfront.net/master.m3u8",
+    "group": "Sports",
+    "tags": [
+      "Live",
+      "HD"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 132
+  },
+  {
+    "id": "ft_001",
+    "name": "SportzX Live",
+    "logo": "",
+    "url": "https://edgestream1.pro/hls/dazhfiach15.m3u8?",
+    "group": "SportzX",
+    "tags": [
+      "Live"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": true,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 133,
+    "referer": "https://streamscenter.online/",
+    "origin": "https://streamscenter.online"
+  },
+  {
+    "id": "ft_002",
+    "name": "SportzX Live",
+    "logo": "",
+    "url": "https://edgestream3.pro/hls/bzagLHzach19.m3u8?",
+    "group": "SportzX",
+    "tags": [
+      "Live"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": true,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 134,
+    "referer": "https://streamscenter.online/",
+    "origin": "https://streamscenter.online"
+  },
+  {
+    "id": "ft_003",
+    "name": "SportzX Live",
+    "logo": "",
+    "url": "https://edgestream1.pro/hls/jkzahzadach20.m3u8?",
+    "group": "SportzX",
+    "tags": [
+      "Live"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": true,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 135,
+    "referer": "https://streamscenter.online/",
+    "origin": "https://streamscenter.online"
+  },
+  {
+    "id": "ft_004",
+    "name": "ICC TV FHD",
+    "logo": "",
+    "url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/hdntl=exp=1783702529~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=41341b330805b9c5a1cb484abbf27034c64edf771e4349ca37bfecb54f4a1792/manifest.mpd",
+    "group": "ICC",
+    "tags": [
+      "Live",
+      "HD",
+      "DRM"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": true,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 136,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+    "type": "dash",
+    "kid": "39bd302cdeed3710a89fb004d232ab67",
+    "key": "9869f804ba18d7e508cbff781829221c"
+  },
+  {
+    "id": "ft_005",
+    "name": "WILLOW FHD",
+    "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/orxueyvu1q/out/v1/4f512a0c1bf2470c875bf8b26b563c80/cenc.mpd",
+    "group": "WILLOW",
+    "tags": [
+      "Live",
+      "HD",
+      "DRM"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": true,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 137,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "type": "dash",
+    "kid": "f52a13486b5aa72569ab1e6b45e7ec29",
+    "key": "41611477a72a4b932513c0b824ccae06"
+  },
+  {
+    "id": "ft_006",
+    "name": "SKY CRICKET FHD",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+    "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+    "group": "SKY",
+    "tags": [
+      "Live",
+      "HD"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 138,
+    "userAgent": "Mozilla"
+  },
+  {
+    "id": "ft_007",
+    "name": "WILLOW ALT",
+    "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+    "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/orxueyvu1q/out/v1/4f512a0c1bf2470c875bf8b26b563c80/cenc.mpd",
+    "group": "WILLOW",
+    "tags": [
+      "Live",
+      "DRM"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": true,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 139,
+    "type": "dash",
+    "kid": "f52a13486b5aa72569ab1e6b45e7ec29",
+    "key": "41611477a72a4b932513c0b824ccae06"
+  },
+  {
+    "id": "ft_008",
+    "name": "LOW SERVER",
+    "logo": "",
+    "url": "http://193.47.62.41/hls/MMMMQQ.m3u8",
+    "group": "LOW",
+    "tags": [
+      "Live"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": true,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 140,
+    "referer": "http://www.fawanews.sc/"
+  },
+  {
+    "id": "ft_009",
+    "name": "WILLOW HD",
+    "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+    "group": "WILLOW",
+    "tags": [
+      "Live",
+      "HD",
+      "DRM"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": true,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 141,
+    "type": "dash",
+    "kid": "290e09c837da78d5cd961978d390515c",
+    "key": "b748836c71e6a4ca68ef5b5652db6247"
+  },
+  {
+    "id": "ft_010",
+    "name": "SKY CRICKET FHD",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+    "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=8Q-Mt7GTaRI2Eo9LNZ9mrg&e=2081082141",
+    "group": "SKY",
+    "tags": [
+      "Live",
+      "HD"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 142,
+    "userAgent": "Mozilla"
+  },
+  {
+    "id": "ft_011",
+    "name": "FULL MATCH",
+    "logo": "",
+    "url": "https://hgcloud.to/e/us7kdjgtzcka",
+    "group": "FULL",
+    "tags": [
+      "Live"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 143
+  },
+  {
+    "id": "ft_012",
+    "name": "1st HALF",
+    "logo": "",
+    "url": "https://soccerfull.net/hls/14645.m3u8",
+    "group": "1st",
+    "tags": [
+      "Live"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 144
+  },
+  {
+    "id": "ft_013",
+    "name": "2nd HALF",
+    "logo": "",
+    "url": "https://hgcloud.to/e/vo1x8pseaklb",
+    "group": "2nd",
+    "tags": [
+      "Live"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 145
+  },
+  {
+    "id": "ft_014",
+    "name": "TSN SPORTS",
+    "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+    "group": "TSN",
+    "tags": [
+      "Live",
+      "DRM"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": true,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 146,
+    "type": "dash",
+    "kid": "85b277daf5aae05833fe43a68f587968",
+    "key": "d52d7e9bc0bcd98787efd547ac91eca0"
+  },
+  {
+    "id": "ft_015",
+    "name": "Fox Sports Premium",
+    "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
+    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd",
+    "group": "FOX",
+    "tags": [
+      "Live",
+      "DRM"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": true,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 147,
+    "type": "dash",
+    "kid": "9f327d24c66fbd84e15ab5c9ead7c7a4",
+    "key": "83837185529c0c4048f81386c2d36426"
+  },
+  {
+    "id": "ft_016",
+    "name": "FOX ONE - AQ",
+    "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
+    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
+    "group": "FOX",
+    "tags": [
+      "Live",
+      "DRM"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": true,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 148,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "type": "dash",
+    "kid": "f6564ec2aee819046328a0e153be574d",
+    "key": "ff46a8a1031eb27ef22576a077c98ab7"
+  },
+  {
+    "id": "ft_017",
+    "name": "TSN SPORTS FHD",
+    "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+    "group": "TSN",
+    "tags": [
+      "Live",
+      "HD",
+      "DRM"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": true,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 149,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "type": "dash",
+    "kid": "14eeabf30c14b7fbf3008c03099ce011",
+    "key": "17d2ac8dbc5429bd70af3433aa12158d"
+  },
+  {
+    "id": "ft_018",
+    "name": "TVE La 1 FHD",
+    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/p19tzj1781340041.png",
+    "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
+    "group": "TVE",
+    "tags": [
+      "Live",
+      "HD",
+      "DRM"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": true,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 150,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "type": "dash",
+    "kid": "745cd6ec34a58f2f7ac2af35dc3da6d2",
+    "key": "ae008f1e47e6567fe4201a6ff8f1ae54"
+  },
+  {
+    "id": "ft_019",
+    "name": "CANAL5 FHD",
+    "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/televisa.gif",
+    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
+    "group": "CANAL",
+    "tags": [
+      "Live",
+      "HD",
+      "DRM"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": true,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 151,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "type": "dash",
+    "kid": "d695093ea3e66d75a4d213a3e2cbf360",
+    "key": "01be3f645e89a067d2786c295f68dde4"
+  },
+  {
+    "id": "ft_020",
+    "name": "CAZE TV FHD",
+    "logo": "https://duckduckgo.com/i/dab0d6887915781c.png",
+    "url": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd",
+    "group": "CAZE",
+    "tags": [
+      "Live",
+      "HD",
+      "DRM"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": true,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 152,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "type": "dash",
+    "kid": "1223d5105392cabf1bb9c2c1fdf6539a",
+    "key": "340b409f4b8f78a343e0363a7938df38"
+  },
+  {
+    "id": "ft_021",
+    "name": "TSN4 SPORTS FHD",
+    "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+    "group": "TSN",
+    "tags": [
+      "Live",
+      "HD",
+      "DRM"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": true,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 153,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "type": "dash",
+    "kid": "abc5b2883121012850ebda05b528c5ec",
+    "key": "e5250924f4b738905f7163a0134587a7"
+  },
+  {
+    "id": "ft_022",
+    "name": "TUDN MEXICO",
+    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/sonnfj1629403437.png",
+    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
+    "group": "TUDN",
+    "tags": [
+      "Live",
+      "DRM"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": true,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 154,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "type": "dash",
+    "kid": "763ce1ebcaf23502c8cf357c6ef423e1",
+    "key": "0c5e6c0820a1ea28753721db00272411"
+  },
+  {
+    "id": "ft_023",
+    "name": "WC TV FHD",
+    "logo": "",
+    "url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd",
+    "group": "WC",
+    "tags": [
+      "Live",
+      "HD",
+      "DRM"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": true,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 155,
+    "type": "dash",
+    "kid": "2c338a117d434ce4bbe3569231af90f1",
+    "key": "a9633d901ee8a3f4f58ac314b5c5f4fb"
+  },
+  {
+    "id": "ft_024",
+    "name": "RTE SPORTS FHD",
+    "logo": "",
+    "url": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/def159ca-02f8-4dc1-8e2b-a41ec46da398:BRU/manifest.mpd",
+    "group": "RTE",
+    "tags": [
+      "Live",
+      "HD",
+      "DRM"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": true,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 156,
+    "type": "dash",
+    "kid": "d816287e21496989eae1312925a423c5",
+    "key": "00da00f13180e7e6cd5ce87d1c974e8d"
+  },
+  {
+    "id": "ft_025",
+    "name": "D Sports FHD",
+    "logo": "",
+    "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
+    "group": "D",
+    "tags": [
+      "Live",
+      "HD",
+      "DRM"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": true,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 157,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "type": "dash",
+    "kid": "f836853d8eac19446ed9535f5fc568b1",
+    "key": "b3bc5ef00602b29abac7e482d3d9fbf3"
+  },
+  {
+    "id": "ft_026",
+    "name": "SporTV BR FHD",
+    "logo": "https://iili.io/CFFRvqJ.png",
+    "url": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
+    "group": "SporTV",
+    "tags": [
+      "Live",
+      "HD",
+      "DRM"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": true,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 158,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "type": "dash",
+    "kid": "51c0ef23b17297e5c01cd7f36dd0a6ce",
+    "key": "8823f713ba6fdb9bbe0a2ad82d309a4b"
+  },
+  {
+    "id": "ft_027",
+    "name": "FOX ONE HD",
+    "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
+    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cizlveblk4/out/v1/e5c36c41621e4384b80427d87199433a/cenc.mpd",
+    "group": "FOX",
+    "tags": [
+      "Live",
+      "HD",
+      "DRM"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": true,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 159,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "type": "dash",
+    "kid": "d7d78ea2021a29541136bd5dc8352fe7",
+    "key": "6425ac4c0cdf906fe0cce5cf40dc8933"
+  },
+  {
+    "id": "ft_028",
+    "name": "IRIB 4K",
+    "logo": "",
+    "url": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
+    "group": "4K",
+    "tags": [
+      "Live",
+      "4K"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 160
+  },
+  {
+    "id": "ft_029",
+    "name": "SD SERVER [ENG]",
+    "logo": "",
+    "url": "http://193.47.62.59/hls/JMMMCZzsss.m3u8?",
+    "group": "SERVER",
+    "tags": [
+      "Live"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": true,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 161,
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc/"
+  },
+  {
+    "id": "ft_030",
+    "name": "ITV SPORTS FHD",
+    "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png",
+    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd",
+    "group": "ITV",
+    "tags": [
+      "Live",
+      "HD",
+      "DRM"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": true,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 162,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "type": "dash",
+    "kid": "30089c52924f037b225b82c616fee2a5",
+    "key": "f55dc8b66ed4fc6753d6035ae7e17144"
+  },
+  {
+    "id": "ft_031",
+    "name": "RTE SPORTS FHD",
+    "logo": "",
+    "url": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/88fd3886-51db-45b1-a9fd-a6c8db5a50ae:GRQ/manifest.mpd",
+    "group": "RTE",
+    "tags": [
+      "Live",
+      "HD",
+      "DRM"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": true,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 163,
+    "type": "dash",
+    "kid": "d816287e21496989eae1312925a423c5",
+    "key": "00da00f13180e7e6cd5ce87d1c974e8d"
+  },
+  {
+    "id": "ft_032",
+    "name": "FOX SPORTS HD",
+    "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
+    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zpfs5hlgya/out/v1/84b1d591a23640178a8e8aa43c6e59a7/cenc.mpd",
+    "group": "FOX",
+    "tags": [
+      "Live",
+      "HD",
+      "DRM"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": true,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 164,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "type": "dash",
+    "kid": "0cc2f872759c96de70237e6fa6de03d0",
+    "key": "a879b1d38ed002d4018bce96f9219b8d"
+  },
+  {
+    "id": "ft_033",
+    "name": "SD SERVER  [SWE]",
+    "logo": "",
+    "url": "http://193.47.62.59/hls/QJMMMCZckkkqq.m3u8?",
+    "group": "SERVER",
+    "tags": [
+      "Live"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": true,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 165,
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc/"
+  },
+  {
+    "id": "ft_034",
+    "name": "beiN SPORTS FR",
+    "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
+    "url": "http://193.47.62.59/hls/QJMMMCZckkkq.m3u8?",
+    "group": "beIN",
+    "tags": [
+      "Live"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": true,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 166,
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc/"
+  },
+  {
+    "id": "ft_035",
+    "name": "TSports BDIX",
+    "logo": "",
+    "url": "http://103.165.93.31:8095/tsports/video.m3u8",
+    "group": "TSports",
+    "tags": [
+      "Live"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 167
+  },
+  {
+    "id": "ft_036",
+    "name": "SomoyTV BDIX",
+    "logo": "",
+    "url": "http://103.165.93.31:8095/somoyTv/index.m3u8",
+    "group": "SOMOY",
+    "tags": [
+      "Live"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": false,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 168
+  },
+  {
+    "id": "ft_037",
+    "name": "SportzX Live",
+    "logo": "",
+    "url": "https://edgestream2.pro/hls/Czajafjihafch18.m3u8?",
+    "group": "SportzX",
+    "tags": [
+      "Live"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": true,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 169,
+    "referer": "https://streamscenter.online/",
+    "origin": "https://streamscenter.online"
+  },
+  {
+    "id": "ft_038",
+    "name": "TIPIK FR FHD",
+    "logo": "",
+    "url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
+    "group": "Tipik",
+    "tags": [
+      "Live",
+      "HD",
+      "DRM"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": true,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 170,
+    "type": "dash",
+    "kid": "adca25b8779e4168a0cd710f59f61ccf",
+    "key": "be5383ed3cd8079f4ffe78ad067f476a"
+  },
+  {
+    "id": "ft_039",
+    "name": "CTV SPORTS FHD",
+    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/wwr35d1665918725.png",
+    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd",
+    "group": "CTV",
+    "tags": [
+      "Live",
+      "HD",
+      "DRM"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": true,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 171,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "type": "dash",
+    "kid": "d185684e2330de5bea436daa094a5e86",
+    "key": "014f0116154f5bf0050e03a6b0a23157"
+  },
+  {
+    "id": "ft_040",
+    "name": "RTE SPORTS FHD",
+    "logo": "",
+    "url": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/4661fa2a-637f-4a69-bf86-31e73a99d2c2:BRU/manifest.mpd",
+    "group": "RTE",
+    "tags": [
+      "Live",
+      "HD",
+      "DRM"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": true,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 172,
+    "type": "dash",
+    "kid": "d816287e21496989eae1312925a423c5",
+    "key": "00da00f13180e7e6cd5ce87d1c974e8d"
+  },
+  {
+    "id": "ft_041",
+    "name": "SporTV BR FHD",
+    "logo": "https://iili.io/CFFRvqJ.png",
+    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
+    "group": "SporTV",
+    "tags": [
+      "Live",
+      "HD",
+      "DRM"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": true,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 173,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "type": "dash",
+    "kid": "51c0ef23b17297e5c01cd7f36dd0a6ce",
+    "key": "8823f713ba6fdb9bbe0a2ad82d309a4b"
+  },
+  {
+    "id": "ft_042",
+    "name": "CT SPORTS CZ",
+    "logo": "",
+    "url": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
+    "group": "CT",
+    "tags": [
+      "Live",
+      "DRM"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": true,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 174,
+    "type": "dash",
+    "kid": "11223344556677889900112233445566",
+    "key": "4b80724d0ef86bcb2c21f7999d67739d"
+  },
+  {
+    "id": "ft_043",
+    "name": "SportzX Live",
+    "logo": "",
+    "url": "https://edgestream1.pro/hls/16yuitzaerghbhc16.m3u8?",
+    "group": "SportzX",
+    "tags": [
+      "Live"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": true,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 175,
+    "referer": "https://streamscenter.online/",
+    "origin": "https://streamscenter.online"
+  },
+  {
+    "id": "ft_044",
+    "name": "SportzX Live",
+    "logo": "",
+    "url": "https://edgestream2.pro/hls/ojzkajnach21.m3u8?",
+    "group": "SportzX",
+    "tags": [
+      "Live"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": true,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 176,
+    "referer": "https://streamscenter.online/",
+    "origin": "https://streamscenter.online"
+  },
+  {
+    "id": "ft_045",
+    "name": "SportzX Live",
+    "logo": "",
+    "url": "https://edgestream3.pro/hls/ihfazugfyjcazich17.m3u8?",
+    "group": "SportzX",
+    "tags": [
+      "Live"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": true,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 177,
+    "referer": "https://streamscenter.online/",
+    "origin": "https://streamscenter.online"
+  },
+  {
+    "id": "ft_046",
+    "name": "SportzX Live",
+    "logo": "",
+    "url": "https://edgestream1.pro/hls/ijfnakfidch22.m3u8?",
+    "group": "SportzX",
+    "tags": [
+      "Live"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": true,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 178,
+    "referer": "https://streamscenter.online/",
+    "origin": "https://streamscenter.online"
+  },
+  {
+    "id": "ft_047",
+    "name": "SportzX Live",
+    "logo": "",
+    "url": "https://edgestream1.pro/hls/jzabfazkbf27.m3u8?",
+    "group": "SportzX",
+    "tags": [
+      "Live"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": true,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 179,
+    "referer": "https://streamscenter.online/",
+    "origin": "https://streamscenter.online"
+  },
+  {
+    "id": "ft_048",
+    "name": "SportzX Live",
+    "logo": "",
+    "url": "https://edgestream1.pro/hls/dzjhkfazbka26.m3u8?",
+    "group": "SportzX",
+    "tags": [
+      "Live"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": true,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 180,
+    "referer": "https://streamscenter.online/",
+    "origin": "https://streamscenter.online"
+  },
+  {
+    "id": "ft_049",
+    "name": "SportzX Live",
+    "logo": "",
+    "url": "https://edgestream2.pro/hls/fskjanach24.m3u8?",
+    "group": "SportzX",
+    "tags": [
+      "Live"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": true,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 181,
+    "referer": "https://streamscenter.online/",
+    "origin": "https://streamscenter.online"
+  },
+  {
+    "id": "ft_050",
+    "name": "SportzX Live",
+    "logo": "",
+    "url": "https://edgestream1.pro/hls/ztyarueaghj71.m3u8?",
+    "group": "SportzX",
+    "tags": [
+      "Live"
+    ],
+    "language": "en",
+    "country": "INT",
+    "useProxy": true,
+    "isAdult": false,
+    "isFeatured": false,
+    "order": 182,
+    "referer": "https://streamscenter.online/",
+    "origin": "https://streamscenter.online"
+  }
+]

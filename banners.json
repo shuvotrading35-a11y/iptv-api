@@ -1,0 +1,20 @@
+[
+  {
+    "id": "bn_001",
+    "imageUrl": "https://images.seeklogo.com/logo-png/61/1/cazetv-logo-png_seeklogo-619708.png",
+    "title": "CAZE TV Live",
+    "subtitle": "Watch live sports 24/7",
+    "channelId": "sp_001",
+    "order": 1,
+    "isActive": true
+  },
+  {
+    "id": "bn_002",
+    "imageUrl": "https://static.wikia.nocookie.net/logopedia/images/8/8e/Somoy_Television.svg",
+    "title": "SOMOY NEWS",
+    "subtitle": "Latest Bangladesh news",
+    "channelId": "bn_004",
+    "order": 2,
+    "isActive": true
+  }
+]
